@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "alg": "RS384",
+      "kid": "supercra-key-1",
+      "use": "sig",
+      "n": "ze_zOf0UN4DLcC23UdcPnlKOiUCe7RijOxunC4H5RVX0xiQMBzUwi4LX3HFHelMz_NVqZeOEA0xx9_VvSlmr_4TJ7-pl7zVot8boOr17srHHbMCRZvxBKIEWwvoqtSx6-PJBfzxnzwUegzUo7cy5Nbf6PLpwTnlxGKhX_XbyZULn1p2deApKDeKLwU4lLlmN8NstFZ74ScjUAiWR32ZAi0r4nlWdOMj5yPh6aO-58to_bikYM5AJLCsnkcmvFp5fxqmARMrV4OOADuFuGzb5BcRCRNVVIkeLixgsdI5qME3rpW4T8FMVZwmvsFHXjNDzdh2Vxb7HbvPiuzuOj_T_PQ",
+      "e": "AQAB"
+    }
+  ]
+}
